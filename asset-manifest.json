@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/foodtogo/static/css/main.e4529661.chunk.css",
+    "main.js": "/foodtogo/static/js/main.60054e4f.chunk.js",
+    "main.js.map": "/foodtogo/static/js/main.60054e4f.chunk.js.map",
+    "runtime-main.js": "/foodtogo/static/js/runtime-main.e6bf7206.js",
+    "runtime-main.js.map": "/foodtogo/static/js/runtime-main.e6bf7206.js.map",
+    "static/js/2.27b14159.chunk.js": "/foodtogo/static/js/2.27b14159.chunk.js",
+    "static/js/2.27b14159.chunk.js.map": "/foodtogo/static/js/2.27b14159.chunk.js.map",
+    "static/js/3.c6a54b92.chunk.js": "/foodtogo/static/js/3.c6a54b92.chunk.js",
+    "static/js/3.c6a54b92.chunk.js.map": "/foodtogo/static/js/3.c6a54b92.chunk.js.map",
+    "index.html": "/foodtogo/index.html",
+    "static/css/main.e4529661.chunk.css.map": "/foodtogo/static/css/main.e4529661.chunk.css.map",
+    "static/js/2.27b14159.chunk.js.LICENSE.txt": "/foodtogo/static/js/2.27b14159.chunk.js.LICENSE.txt",
+    "static/media/TomHum.d76fb58a.jpg": "/foodtogo/static/media/TomHum.d76fb58a.jpg",
+    "static/media/logo.fbda1cb2.jpg": "/foodtogo/static/media/logo.fbda1cb2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6bf7206.js",
+    "static/js/2.27b14159.chunk.js",
+    "static/css/main.e4529661.chunk.css",
+    "static/js/main.60054e4f.chunk.js"
+  ]
+}
